@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrés and
-- 🌱 I’m currently learning and working on WordPress development, javascript, Reat and php
+- 🌱 I’m currently learning and working on WordPress development, javascript, React and php
 - 💞️ I’m looking to collaborate on projects using with these languages
 - 📫 You can contact me at andres21peace@gmail.com
 
